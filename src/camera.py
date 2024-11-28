@@ -4,7 +4,7 @@
 """
 This script checks the camera connected to the MyCobot.
 
-
+Press 'q' to quit the camera window.
 """
 
 
